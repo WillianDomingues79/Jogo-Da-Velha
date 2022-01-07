@@ -24,7 +24,7 @@ h1{
     right: 0;
     bottom: 0;
     position: absolute;
-    content: "\1F6E1";
+    content: "\2B55";
     font-size: 50px;
     
     line-height: 100px;
@@ -40,7 +40,16 @@ h1{
     right: 0;
     bottom: 0;
     position: absolute;
-    content: "\1F5E1";
+    content: "\274C";
     font-size: 50px;
     line-height: 100px;
+}
+
+.recarregar{
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 10px;
+    background-color: thistle;
 }
